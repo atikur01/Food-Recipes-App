@@ -33,7 +33,7 @@ A professional Flutter application demonstrating clean architecture, displaying 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/livetest.git
+   git clone https://github.com/atikur01/livetest.git
    ```
 2. Navigate to the project directory:
    ```bash
