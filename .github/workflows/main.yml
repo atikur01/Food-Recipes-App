@@ -1,11 +1,10 @@
-branches:
-  - main
-  - masteraname: Build & Release APK
+name: Build & Release APK
 
 on:
   push:
     branches:
-      - main
+        - main
+        - master
 
 permissions:
   contents: write
